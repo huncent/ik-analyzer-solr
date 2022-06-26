@@ -1,5 +1,5 @@
 # ik-analyzer-solr
-ik-analyzer for solr 7.x-8.x
+ik-analyzer for solr 9.x
 
 <!-- Badges section here. -->
 [![GitHub version](https://img.shields.io/maven-central/v/com.github.magese/ik-analyzer.svg?style=flat-square)](https://search.maven.org/search?q=g:com.github.magese%20AND%20a:ik-analyzer&core=gav)
@@ -105,6 +105,7 @@ ik-analyzer for solr 7.x-8.x
 
 
 ## 更新说明
+- **2022-06-26:** 升级lucene版本为`9.2.0`
 - **2021-12-23:** 升级lucene版本为`8.5.0`
 - **2021-03-22:** 升级lucene版本为`8.4.0`
 - **2020-12-30:**
